@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VKornel1031
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Batch Programming Language
-- 📫 How to reach me KodiWeb.bat https://drive.google.com/file/d/1NemYliHvcnSoDRalGjaXtHAYsLlRBHQ_/view?usp=sharing (Virustotal tested!)
+- 📫 How to reach me KodiWeb https://kodiweb.fairautoszervizkft.hu 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like programming
 
