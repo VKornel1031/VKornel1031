@@ -14,5 +14,11 @@ I am a High School Student<br>I want to be a DevOps Engineer<br>I live in Hungar
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VKornel1031&icon=0&color=0)](https://visitcount.itsvg.in)
-
 # 💫 Snake:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+_Yes its snake [It really is]_
