@@ -12,7 +12,6 @@ I am a High School Student<br>I want to be a DevOps Engineer<br>I live in Hungar
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VKornel1031&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VKornel1031&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=VKornel1031&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 Snake:
 <picture>
