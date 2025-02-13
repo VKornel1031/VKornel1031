@@ -15,4 +15,4 @@ I am a High School Student<br>I want to be a DevOps Engineer<br>I live in Hungar
 ---
 [![](https://visitcount.itsvg.in/api?id=VKornel1031&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 Snake:
