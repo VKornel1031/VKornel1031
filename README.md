@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Middle School Student<br>I want to be a DevOps IT worker<br>I live in Hungary
+I am a Middle School Student<br>I want to be a DevOps Engineer<br>I live in Hungary
 
 
 ## 🌐 Socials:
